@@ -6,8 +6,14 @@ Este repositorio se creo con el fin de brindar soporte a las personas que estan 
 
 ## Link importantes
 
+**Canal de Youtube**
+https://www.youtube.com/channel/UC-3vUoM2WWEbMU6NxGlttiQ
+
 **Aula Virtual**
+https://lms.misiontic2022udea.com
+
 **Grupo de telegram**
+https://t.me/InscritosUDEA
 
 ## Semana de induccion
 
@@ -15,9 +21,30 @@ Este repositorio se creo con el fin de brindar soporte a las personas que estan 
 
 #### Temas
 
+- Plataforma Moodle
+- Como hacer y subir Trabajos
+- Como utilizar un Browser
+
 ### Conceptos Basicos de Programacion
 
-#### Thema
+#### Temas
+
+- Condicionales
+- Funciones
+- Tipos de datos
+- links útiles como complemento
+
+#### Material de apoyo
+
+https://codigofacilito.com/
+
+https://aprende.org/tema/programacion_todos
+
+https://codecombat.com/
+
+https://es.stackoverflow.com/
+
+https://www.w3schools.com/
 
 ### Logica y Matematicas
 
@@ -28,3 +55,5 @@ Logica propocisional
 ## Contribucion
 
 ## Contacto
+
+https://t.me/InscritosUDEA
