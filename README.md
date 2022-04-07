@@ -30,7 +30,7 @@ https://t.me/InscritosUDEA
 - Como utilizar un Browser
 - como ver y descargar las clases en zoom
 
-#### Herramientas de Apoyo
+#### Material de apoyo
 
 - https://code.visualstudio.com
 
@@ -70,9 +70,10 @@ https://t.me/InscritosUDEA
 
 #### Temas
 
-Logica propocisional
+- Logica propocisional
+- Teoria de Conjuntos
 
-#### Link de apoyo
+#### Material de apoyo
 
 https://colab.research.google.com
 
@@ -80,7 +81,7 @@ https://colab.research.google.com
 
 Para contribuir con este repositorio se recomienda hacer un fork y merge request del mismo con los cambios.
 
-Tambien es aconsejable hacer una issue.
+Tambien es aconsejable hacer un issue.
 
 Si es necesario contacte a los contribuidores del repositorio.
 
