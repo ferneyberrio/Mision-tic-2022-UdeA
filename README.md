@@ -30,6 +30,21 @@ https://t.me/InscritosUDEA
 - Como utilizar un Browser
 - como ver y descargar las clases en zoom
 
+#### Herramientas de Apoyo
+
+- https://code.visualstudio.com
+
+#### Temas
+
+- como usar un buscador
+- como usar la terminal
+- crear y borrar archivos desde la terminal
+- que es python
+
+#### Material de apoyo
+
+- https://code.visualstudio.com
+
 ### Conceptos Basicos de Programacion
 
 #### Temas
@@ -41,15 +56,15 @@ https://t.me/InscritosUDEA
 
 #### Material de apoyo
 
-https://codigofacilito.com/
+- https://codigofacilito.com/
 
-https://aprende.org/tema/programacion_todos
+- https://aprende.org/tema/programacion_todos
 
-https://codecombat.com/
+- https://codecombat.com/
 
-https://es.stackoverflow.com/
+- https://es.stackoverflow.com/
 
-https://www.w3schools.com/
+- https://www.w3schools.com/
 
 ### Logica y Matematicas
 
