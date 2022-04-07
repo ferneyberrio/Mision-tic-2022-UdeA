@@ -1,6 +1,6 @@
 # Misión-tic-2022-UdeA
 
-![] (https://www2.utp.edu.co/cms-utp/data/bin/UTP/web/uploads/media/comunicaciones/img/Diseno-sin-titulo-32-.png)
+![] (https://i.imgur.com/krS8urH.jpg)
 
 ## Descripcion
 
