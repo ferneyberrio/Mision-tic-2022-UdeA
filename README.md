@@ -1,6 +1,6 @@
 # Misión-tic-2022-UdeA
 
-![] (https://i.imgur.com/krS8urH.jpg)
+![](https://i.imgur.com/krS8urH.jpg)
 
 ## Descripcion
 
