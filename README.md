@@ -1,8 +1,12 @@
 # Misión-tic-2022-UdeA
 
+![] (https://www2.utp.edu.co/cms-utp/data/bin/UTP/web/uploads/media/comunicaciones/img/Diseno-sin-titulo-32-.png)
+
 ## Descripcion
 
 Este repositorio se creo con el fin de brindar soporte a las personas que estan en el proceso de aprendizaje mintic 2022 en la universidad de antiquia.
+
+Hecho por los estudiantes para los estudiantes y todos aquellos que se quieran involucran en el proceso.
 
 ## Link importantes
 
@@ -24,6 +28,7 @@ https://t.me/InscritosUDEA
 - Plataforma Moodle
 - Como hacer y subir Trabajos
 - Como utilizar un Browser
+- como ver y descargar las clases en zoom
 
 ### Conceptos Basicos de Programacion
 
@@ -52,7 +57,17 @@ https://www.w3schools.com/
 
 Logica propocisional
 
+#### Link de apoyo
+
+https://colab.research.google.com
+
 ## Contribucion
+
+Para contribuir con este repositorio se recomienda hacer un fork y merge request del mismo con los cambios.
+
+Tambien es aconsejable hacer una issue.
+
+Si es necesario contacte a los contribuidores del repositorio.
 
 ## Contacto
 
