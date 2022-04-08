@@ -1,14 +1,14 @@
-# Misión-tic-2022-UdeA
+# Misión tic 2022 UdeA :rocket:
 
 ![](https://i.imgur.com/krS8urH.jpg)
 
-## Descripcion
+## Descripción
 
-Este repositorio se creo con el fin de brindar soporte a las personas que estan en el proceso de aprendizaje mintic 2022 en la universidad de antiquia.
+Este repositorio es creado con el fin de brindar soporte a las personas que están en el proceso de aprendizaje MISIONTIC 2022 :rocket: en la universidad de Antioquia.
 
 Hecho por los estudiantes para los estudiantes y todos aquellos que se quieran involucran en el proceso.
 
-## Link importantes
+## Enlaces de importancia
 
 **Canal de Youtube**
 https://www.youtube.com/channel/UC-3vUoM2WWEbMU6NxGlttiQ
@@ -19,42 +19,42 @@ https://lms.misiontic2022udea.com
 **Grupo de telegram**
 https://t.me/InscritosUDEA
 
-## Semana de induccion
+## Semana de inducción
 
 ### :memo: Aprender en Linea
 
 #### Temas
 
 - Plataforma Moodle
-- Como hacer y subir Trabajos
-- Como utilizar un Browser
-- como ver y descargar las clases en zoom
+- Cómo hacer y subir Trabajos
+- Cómo utilizar un Browser
+- Cómo ver y descargar las clases en zoom
 
 #### Material de apoyo
 
 - https://code.visualstudio.com
 
-### Herramientas de Apoyo
+### :memo:Herramientas de Apoyo
 
 #### Temas
 
-- como usar un buscador
-- como usar la terminal
-- crear y borrar archivos desde la terminal
-- que es python
+- Cómo usar un buscador
+- Cómo usar la terminal
+- Crear y borrar archivos desde la terminal
+- Qué es python
 
 #### Material de apoyo
 
 - https://code.visualstudio.com
 
-### Conceptos Basicos de Programacion
+### :memo: Conceptos Básicos de Programación
 
 #### Temas
 
 - Condicionales
 - Funciones
 - Tipos de datos
-- links útiles como complemento
+- Enlaces útiles como complemento
 
 #### Material de apoyo
 
@@ -71,18 +71,18 @@ https://t.me/InscritosUDEA
 - https://es.khanacademy.org/computing
 - https://pythontutor.com/
 
-### Logica y Matematicas
+### :memo: Lógica y Matemáticas
 
 #### Temas
 
-- Logica propocisional
-- Teoria de Conjuntos
+- Lógica propocisional
+- Teoría de Conjuntos
 
 #### Material de apoyo
 
 https://colab.research.google.com
 
-## Contribucion
+## Contribución
 
 Para contribuir con este repositorio se recomienda hacer un fork y merge request del mismo con los cambios.
 
