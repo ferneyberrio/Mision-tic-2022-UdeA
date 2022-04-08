@@ -98,9 +98,6 @@ Tambien es aconsejable hacer un issue.
 
 Si es necesario contacte a los contribuidores del repositorio.
 
-:::warning
-:warning: **Nota.** La información contenida en este repositorio se realiza bajo la información, clases, tutorias y charlas impartidas por la Universidad de Antioquia. Realizado para estudiantes y para estudiantes. 
-:::
 
 ## Contacto
 
