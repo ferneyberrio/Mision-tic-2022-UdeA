@@ -2,13 +2,13 @@
 
 ![](https://i.imgur.com/krS8urH.jpg)
 
-## Descripción
+# Descripción
 
 Este repositorio es creado con el fin de brindar soporte a las personas que están en el proceso de aprendizaje MISIONTIC 2022 :rocket: en la universidad de Antioquia.
 
 Hecho por los estudiantes para los estudiantes y todos aquellos que se quieran involucran en el proceso.
 
-## Enlaces de importancia
+# Enlaces de importancia
 
 **Canal de Youtube**
 https://www.youtube.com/channel/UC-3vUoM2WWEbMU6NxGlttiQ
