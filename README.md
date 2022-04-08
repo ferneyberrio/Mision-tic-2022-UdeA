@@ -85,7 +85,7 @@ https://colab.research.google.com
 
 # :rocket: Apuntes de clases
 
-- [Ciclo 1 - Fundamentos de programación]()
+- [Ciclo 1 - Fundamentos de programación](https://github.com/anmaogo/Mision-tic-2022-UdeA/blob/main/Fundamentos%20de%20programaci%C3%B3n.md)
 - [Ciclo 2 - Programación básica]()
 - [Ciclo 3 - Desarrollo de software]()
 - [Ciclo 4 - Desarrollo de aplicaciones web ó móviles]()
