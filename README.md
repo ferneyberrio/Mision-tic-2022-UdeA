@@ -19,9 +19,10 @@ https://lms.misiontic2022udea.com
 **Grupo de telegram**
 https://t.me/InscritosUDEA
 
-## Semana de inducción
+# Semana de inducción
 
 ### :memo: Aprender en Linea
+
 
 #### Temas
 
@@ -82,13 +83,24 @@ https://t.me/InscritosUDEA
 
 https://colab.research.google.com
 
-## Contribución
+# :rocket: Apuntes de clases
+
+- [Ciclo 1 - Fundamentos de programación]()
+- [Ciclo 2 - Programación básica]()
+- [Ciclo 3 - Desarrollo de software]()
+- [Ciclo 4 - Desarrollo de aplicaciones web ó móviles]()
+
+# Contribución
 
 Para contribuir con este repositorio se recomienda hacer un fork y merge request del mismo con los cambios.
 
 Tambien es aconsejable hacer un issue.
 
 Si es necesario contacte a los contribuidores del repositorio.
+
+:::warning
+:warning: **Nota.** La información contenida en este repositorio se realiza bajo la información, clases, tutorias y charlas impartidas por la Universidad de Antioquia. Realizado para estudiantes y para estudiantes. 
+:::
 
 ## Contacto
 
