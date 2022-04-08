@@ -68,6 +68,9 @@ https://t.me/InscritosUDEA
 
 - https://www.w3schools.com/
 
+- https://es.khanacademy.org/computing
+- https://pythontutor.com/
+
 ### Logica y Matematicas
 
 #### Temas
