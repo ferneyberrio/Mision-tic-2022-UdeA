@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/krS8urH.jpg)
 
-# Descripción
+# :black_nib: Descripción
 
 Este repositorio es creado con el fin de brindar soporte a las personas que están en el proceso de aprendizaje MISIONTIC 2022 :rocket: en la universidad de Antioquia.
 
@@ -25,7 +25,7 @@ soportemisiontic@udea.edu.co
 **Whastapp de permanencia**
 302 4242844
 
-# Semana de inducción
+# :flags: Semana de inducción
 
 ### :memo: Aprender en Linea
 
