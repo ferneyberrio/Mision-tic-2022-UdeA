@@ -8,7 +8,7 @@ Este repositorio es creado con el fin de brindar soporte a las personas que est�
 
 Hecho por los estudiantes para los estudiantes y todos aquellos que se quieran involucran en el proceso.
 
-# Enlaces de importancia
+# :key: Enlaces de importancia
 
 **Canal de Youtube**
 https://www.youtube.com/channel/UC-3vUoM2WWEbMU6NxGlttiQ
@@ -19,10 +19,15 @@ https://lms.misiontic2022udea.com
 **Grupo de telegram**
 https://t.me/InscritosUDEA
 
+**Email Soporte**
+soportemisiontic@udea.edu.co
+
+**Whastapp de permanencia**
+302 4242844
+
 # Semana de inducción
 
 ### :memo: Aprender en Linea
-
 
 #### Temas
 
@@ -35,7 +40,7 @@ https://t.me/InscritosUDEA
 
 - https://code.visualstudio.com
 
-### :memo:Herramientas de Apoyo
+### :memo: Herramientas de Apoyo
 
 #### Temas
 
@@ -43,6 +48,9 @@ https://t.me/InscritosUDEA
 - Cómo usar la terminal
 - Crear y borrar archivos desde la terminal
 - Qué es python
+- Como usar viertual box para instalar linux
+- Que es PIP
+- que es Git
 
 #### Material de apoyo
 
@@ -90,14 +98,21 @@ https://colab.research.google.com
 - [Ciclo 3 - Desarrollo de software]()
 - [Ciclo 4 - Desarrollo de aplicaciones web ó móviles]()
 
-# Contribución
+# :calendar: Fechas relevantes
+
+**Inicio de clases**
+18 de abril
+
+**Entregas semana 0**
+finales de mayo (ver cada fecha por separado)
+
+# :bulb: Contribución
 
 Para contribuir con este repositorio se recomienda hacer un fork y merge request del mismo con los cambios.
 
 Tambien es aconsejable hacer un issue.
 
 Si es necesario contacte a los contribuidores del repositorio.
-
 
 ## Contacto
 
