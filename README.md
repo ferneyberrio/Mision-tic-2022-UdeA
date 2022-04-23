@@ -117,6 +117,9 @@ Tambien es aconsejable hacer un issue.
 
 Si es necesario contacte a los contribuidores del repositorio.
 
+Grupo 9-10 martes-jueves 18-20 y sábados 8-11:
+https://github.com/ferneyberrio/Programaci-n_C1_Grupos9-10.git
+
 ## Contacto
 
 https://t.me/InscritosUDEA
