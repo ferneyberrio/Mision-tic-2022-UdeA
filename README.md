@@ -22,6 +22,9 @@ https://t.me/InscritosUDEA
 **Email Soporte**
 soportemisiontic@udea.edu.co
 
+**Programación Online**
+https://replit.com/
+
 **Whastapp de permanencia**
 302 4242844
 
